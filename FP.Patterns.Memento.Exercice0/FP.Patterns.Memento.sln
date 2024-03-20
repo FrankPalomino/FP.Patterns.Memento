@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento", "FP.Patterns.Memento.csproj", "{1E5F8734-5CCF-4823-A791-20B8FFFF3B37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercice0", "FP.Patterns.Memento.Exercice0.csproj", "{1E5F8734-5CCF-4823-A791-20B8FFFF3B37}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercice1", "..\FP.Patterns.Memento.Exercice1\FP.Patterns.Memento.Exercice1.csproj", "{BF32D5FE-EA53-4096-8A09-D886C70F780F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Memento.Exercice2", "..\FP.Patterns.Memento.Exercice2\FP.Patterns.Memento.Exercice2.csproj", "{E6030B0D-F540-407F-940F-3671CE1B30CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercice2", "..\FP.Patterns.Memento.Exercice2\FP.Patterns.Memento.Exercice2.csproj", "{E6030B0D-F540-407F-940F-3671CE1B30CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Memento.Exercice3", "..\FP.Patterns.Memento.Exercice3\FP.Patterns.Memento.Exercice3.csproj", "{2259E4DC-8A78-45B2-B239-DBDF41B82321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E6030B0D-F540-407F-940F-3671CE1B30CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6030B0D-F540-407F-940F-3671CE1B30CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6030B0D-F540-407F-940F-3671CE1B30CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2259E4DC-8A78-45B2-B239-DBDF41B82321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2259E4DC-8A78-45B2-B239-DBDF41B82321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2259E4DC-8A78-45B2-B239-DBDF41B82321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2259E4DC-8A78-45B2-B239-DBDF41B82321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
