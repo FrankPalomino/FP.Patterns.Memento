@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercice3", "..\FP.Patterns.Memento.Exercice3\FP.Patterns.Memento.Exercice3.csproj", "{2259E4DC-8A78-45B2-B239-DBDF41B82321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Memento.Exercice4", "..\FP.Patterns.Memento.Exercice4\FP.Patterns.Memento.Exercice4.csproj", "{43F7BCCF-73CD-4162-90C2-86336D449E29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.Memento.Exercice4", "..\FP.Patterns.Memento.Exercice4\FP.Patterns.Memento.Exercice4.csproj", "{43F7BCCF-73CD-4162-90C2-86336D449E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.Memento.Exercice5", "..\FP.Patterns.Memento.Exercice5\FP.Patterns.Memento.Exercice5.csproj", "{DC99B0FE-82D4-469F-AD0F-1672857931F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{43F7BCCF-73CD-4162-90C2-86336D449E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F7BCCF-73CD-4162-90C2-86336D449E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F7BCCF-73CD-4162-90C2-86336D449E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC99B0FE-82D4-469F-AD0F-1672857931F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC99B0FE-82D4-469F-AD0F-1672857931F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC99B0FE-82D4-469F-AD0F-1672857931F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC99B0FE-82D4-469F-AD0F-1672857931F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
